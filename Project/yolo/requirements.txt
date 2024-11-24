@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+torch
+cmake
+onnxsim
+# Add DeepStream as a system dependency
+deepstream-python  # For reference, but needs to be installed manually on Jetson
